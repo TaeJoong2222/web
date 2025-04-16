@@ -8,7 +8,7 @@ function search_message()
 
 function googleSearch() {
 
-    const banWord =[Null, 볼드모트];
+    const banWord =[Null];
     //이거 어케하는거지
 
 
