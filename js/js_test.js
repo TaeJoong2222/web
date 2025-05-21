@@ -7,18 +7,18 @@ c=10;
 /*
 여러줄주석: 여러중에 걸쳐 주석처리합니다
 */
-if(True)
-{
-    let c='let 접근';
-    var c_1='var 접근';
-}
-//console.log(c); //error?
-console.log(c_1);
-let d ='5';
-//let d = '값 재할당'; //error?
-console.log(d);
-const e='상수 접근'
-//e='5'
-//const f // error?
-console.log(e);
+// if(True)
+// {
+//     let c='let 접근';
+//     var c_1='var 접근';
+// }
+// //console.log(c); //error?
+// console.log(c_1);
+// let d ='5';
+// //let d = '값 재할당'; //error?
+// console.log(d);
+// const e='상수 접근'
+// //e='5'
+// //const f // error?
+// console.log(e);
 
